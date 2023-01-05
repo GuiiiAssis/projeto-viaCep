@@ -4,4 +4,5 @@
 
 <p align="center">Projeto construido durante o nivelamento do curso da DevSuperior. O DSviaCep busca as informações do CEP inserido e tem a opção de salvar que fixa um card abaixo do formulário</p>
 
-![alt text](http://url/to/img.png)
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/971604085574893572/1060381768240353310/Captura_de_ecra_de_2023-01-04_23-08-43.png" width="600" title="tela DSviaCep">
